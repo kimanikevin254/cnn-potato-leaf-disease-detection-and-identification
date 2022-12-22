@@ -7,14 +7,20 @@
 
 ------------------------------------------------------------
 
-- Instructions screen
+### 2. Instructions screen
 ![Instructions screen](./app-sshots/instructions.png)
 
-- Prediction lab
+------------------------------------------------------------
+
+### 3. Prediction lab
 ![Home screen](./app-sshots/homescreen.png)
 
-- Uploaded image preview
+------------------------------------------------------------
+
+### 4. Uploaded image preview
 ![Uploaded image preview](./app-sshots/uploadpreview.png)
 
-- Results
+------------------------------------------------------------
+
+### 5. Results
 ![Results screen](./app-sshots/results.png)
