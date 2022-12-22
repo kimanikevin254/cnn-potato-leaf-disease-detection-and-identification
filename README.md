@@ -2,7 +2,7 @@
 
 ## Mobile app UI
 
-### Splash screen
+### 1. Splash screen
 ![Splash screen](./app-sshots/splashscreen.png)
 
 ------------------------------------------------------------
