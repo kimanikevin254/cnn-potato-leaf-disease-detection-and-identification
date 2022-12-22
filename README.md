@@ -1,2 +1,2 @@
-# cnn-potato-leaf-disease-detection-and-identification
-# cnn-potato-leaf-disease-detection-and-identification
+# Potato leaf disease detection and identification using CNN
+
