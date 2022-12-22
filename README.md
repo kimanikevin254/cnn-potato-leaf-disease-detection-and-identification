@@ -9,7 +9,7 @@
 ![Instructions screen](./app-sshots/instructions.png)
 
 - Prediction lab
-![Home screen](./app-sshots/uploadpreview.png)
+![Home screen](./app-sshots/homescreen.png)
 
 - Uploaded image preview
 ![Uploaded image preview](./app-sshots/uploadpreview.png)
