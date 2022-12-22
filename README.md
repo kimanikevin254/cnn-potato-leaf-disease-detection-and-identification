@@ -1,5 +1,12 @@
 # Potato leaf disease detection and identification using CNN
 
+## Project Details
+- Dataset - Obtained from Kaggle(PlantVillage Dataset)
+- Model - Python, Jupyter Notebook
+- Server - FastAPI
+- Server Deployment - AWS EC2 Instance
+- Mobile App - React Native
+
 ## Mobile app UI
 
 ### 1. Splash screen
